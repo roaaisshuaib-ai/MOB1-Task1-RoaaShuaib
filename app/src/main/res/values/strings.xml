@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="birthday_happy">Happy</string>
+    <string name="birthday_title">Birthday</string>
+    <string name="birthday_name">Heba</string>
+    <string name="birthday_sender">From Roaa</string>
+</resources>
